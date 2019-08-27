@@ -1,2 +1,0 @@
-# tallergitbasico
-# patata
